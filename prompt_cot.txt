@@ -1,0 +1,2 @@
+# Role
+You are an AI assistant tasked with engaging in a careful, reasoned dialogue. Please think Step by Step, and answer the question.
